@@ -1,0 +1,44 @@
+cask update
+
+cask install alfred
+cask install atom
+cask install audacity
+cask install bettertouchtool
+cask install butter
+cask install chromium
+cask install clamxav
+cask install cyberduck
+cask install dash
+cask install dropbox
+cask install electrum
+cask install flash
+cask install flux
+cask install genymotion
+cask install github
+cask install gitx
+cask install google-drive
+cask install hipchat
+cask install induction
+cask install keyremap4macbook
+cask install kindle
+cask install kobito
+cask install lastfm
+cask install reeder
+cask install remote-desktop-connection
+cask install sqlite-database-browser
+cask install seashore
+cask install sequel-pro
+cask install skype
+cask install soundflower
+cask install sourcetree
+cask install tunnelblick
+cask install vlc
+cask install vagrant
+cask install virtualbox
+cask install yorufukurou
+cask install iterm2
+cask install utorrent
+
+tap caskroom/homebrew-versions
+cask install firefox-ja
+cask install macvim-kaoriya
